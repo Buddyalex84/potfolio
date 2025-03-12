@@ -1,14 +1,12 @@
 @charset "UTF-8";
 /*!
 =========================================================
-* JohnDoe Landing page
+* Ansh verma
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
 
-=========================================================
+
+
 
 * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 */
@@ -12538,7 +12536,7 @@ pre .code {
   transition: .5s !important;
   -weblit-transition: .5s !important;
   z-index: 2;
-  box-shadow: 0 5px 1px rgba(128, 128, 128, 0.13);
+  box-shadow: 0 5px 1px rgba(rgb(128 128 128 / 0%));
   width: 150px;
   height: 170px;
   border-radius: 100%;
